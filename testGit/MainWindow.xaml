@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label x:Name="lbl_output" Content="txt" HorizontalAlignment="Left" Margin="290,172,0,0" VerticalAlignment="Top" Height="45" Width="239"/>
+        <TextBox x:Name="txtB_output" HorizontalAlignment="Left" Margin="258,275,0,0" Text="output" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </Window>

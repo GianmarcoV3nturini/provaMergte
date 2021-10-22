@@ -24,6 +24,7 @@ namespace testGit
         {
             InitializeComponent();
             MessageBox.Show("test");
+            txtB_output.Text = "text box";
         }
     }
 }
